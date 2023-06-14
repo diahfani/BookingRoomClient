@@ -189,6 +189,16 @@ progress[value] {
     color: darkolivegreen;
 }
 
-/*#table1 {
+#table1_wrapper {
+    width: 100%!important;
+    overflow-x: auto;
+}
+
+#tableEmployee_wrapper {
+    width : 100%!important;
+    overflow-x: auto;
+}
+.form-label.gender {
     width: 100%;
-}*/
+    margin: 0;
+}
